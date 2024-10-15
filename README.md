@@ -3,12 +3,14 @@ Foodify is a food ordering platform where users can order food from their favour
 
 The feautres can be broadly divided into two parts :
 
+
 ## Users
 * Choose from their favourite restaurant
 * Search option to filter restaurant and food items
 * Customize the cart according to their wish
 * Complete the payment using razorpay gateway
 * Savour their food once it gets delivered
+
 
 ## Sellers
 * List their restaurant on the platform
